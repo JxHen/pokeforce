@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Trainer</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Trainers</value>
+    </caseValues>
+    <recordTypes>
+        <description><!-- Gym Leader record type --></description>
+        <label><!-- Leader --></label>
+        <name>Leader</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- General Trainer record type --></description>
+        <label><!-- Trainer --></label>
+        <name>Trainer</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
